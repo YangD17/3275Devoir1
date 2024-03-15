@@ -16,8 +16,10 @@ _thethethethethethethethethethethe (offset by 1)
 
 in this example the offset would be of length 3 as "the" is 3 letters and so the concatenations of 'the' would move 3 times and there will be a xor operation between the binary string and the word(or text) entered for each offset testing every letter.
 
-Note: 1.'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and 'the' in text form
-      2. First n letters will not be tested by every letters of the word as the concatenations do not loop back to the start where n is length of word or text entered.
+Note:
+1. 'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and 'the' in text form
+2. First n letters will not be tested by every letters of the word as the concatenations do not loop back to the start where n is length of word or text entered.
+
 
 
 Usage:
