@@ -13,6 +13,7 @@ thisisanexampleofthecodeintextform
 _thethethethethethethethethethethe (offset by 1)
 
 in this example the offset would be of length 3 as "the" is 3 letters and so the concatenations of the would move 3 times and there will be a xor operation between the binary string and the word(or text) entered.
+
 Note: 'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and 'the' in text form
 
 Usage:
