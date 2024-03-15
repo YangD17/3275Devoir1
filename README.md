@@ -13,7 +13,7 @@ in this example the offset would be of length 3 as "the" is 3 letters.
 Note: 'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and 'the' in text form
 
 Usage:
-1. Enter binary string which you want to split and xor first half and second half
+1. Enter binary string which you want to split and xor first half with second half
 2. Enter asdf to signify end of input for binary string
 3. Enter text you want to test -> example: 'the'
 4. enter asdf to signify end of string input
