@@ -17,7 +17,7 @@ _thethethethethethethethethethethe (offset by 1)
 in this example the offset would be of length 3 as "the" is 3 letters and so the concatenations of 'the' would move 3 times and there will be a xor operation between the binary string and crib drag word entered for each offset testing every letter.
 
 Note:
-1. 'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and crib word 'the' in text form
+1. For previous example, 'thisisanexampleofthecodeintextform' would be entered as input in binary form by user and crib word 'the' in text form
 2. First n letters will not be tested by every single letters of the crib word as the concatenations do not loop back to the start where n is length of crib word entered.
 3. Code can be slightly modified to output result of the multiple xor between binary string and offsets of crib word to .txt file instead of printing to console
 
