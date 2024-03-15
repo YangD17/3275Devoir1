@@ -1,12 +1,12 @@
 Main: Takes the initial binary string,splits it and does a xor operation on first half and second half : FirstHalf xor SecondHalf
 
 CribDrag:Takes input of user(text) and does xor of result of Main with text in binary form which is concatenated to test the whole binary string, outputs the xor with different offsets, it offsets for the length of the crib word, example in text form:
-thisisanexampleofthecodeintextform
+thisisanexampleofthecodeintextform \n
 thethethethethethethethethethethet
 
 and then
 
-thisisanexampleofthecodeintextform
+thisisanexampleofthecodeintextform \n
  thethethethethethethethethethethe
 
 in this example the offset would be of length 3 as "the" is 3 letters.
