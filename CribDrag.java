@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class aaaaa {
+public class CribDrag {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String asdf = input.nextLine();
